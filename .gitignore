@@ -1,3 +1,6 @@
 .git
+.env
 .venv
 .DS_Store
+todo.txt
+ref/
